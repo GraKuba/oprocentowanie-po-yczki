@@ -5,7 +5,95 @@ inflation = float(input())
 debt = (1 + (inflation + 3) / 1200) * initial_loan - fixed_instalment
 print(debt)
 
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
 
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
 
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
 
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
+
+inflation = float(input())
+debt = (1 + (inflation + 3) / 1200) * debt - fixed_instalment
+print(debt)
 
