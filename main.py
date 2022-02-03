@@ -2,7 +2,7 @@ initial_loan = 12000
 fixed_instalment = 200
 interest_rate = 3
 
-tpl_message = message ="Twoja pozostala kwota kredytu to {}. To o {} mniej niz w zeszlym miesiacu."
+tpl_message ="Twoja pozostala kwota kredytu to {}. To o {} mniej niz w zeszlym miesiacu."
 
 inflation = float(input())
 debt = (1 + (inflation + interest_rate) / 1200) * initial_loan - fixed_instalment
