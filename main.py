@@ -1,0 +1,36 @@
+
+
+
+
+
+
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
+inflation = int(input())
