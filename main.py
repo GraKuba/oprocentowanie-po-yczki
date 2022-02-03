@@ -17,6 +17,167 @@ debt_change = initial_debt - debt
 message = tpl_message.format(round(debt, 2), round(debt_change, 2))
 print(message)
 
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
+initial_debt = debt
+inflation = float(input())
+debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
+message = tpl_message.format(round(debt, 2), round(debt_change, 2))
+print(message)
+
 
 
 
