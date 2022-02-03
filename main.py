@@ -9,10 +9,11 @@ debt = (1 + (inflation + intrest_rate) / 1200) * initial_loan - fixed_instalment
 message = tpl_message.format(round(debt, 2), round(initial_loan - debt, 2))
 print(message)
 
-debt_change = initial_loan - debt
 
+initial_debt = debt
 inflation = float(input())
 debt = (1 + (inflation + intrest_rate) / 1200) * debt - fixed_instalment
+debt_change = initial_debt - debt
 message = tpl_message.format(round(debt, 2), round(debt_change, 2))
 print(message)
 
